@@ -21,4 +21,3 @@ end
 display_board
  display_board2
    display_board3
-  
