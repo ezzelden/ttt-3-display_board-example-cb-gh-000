@@ -6,18 +6,6 @@ puts "Tic Tac Toe board"
   puts  "-----------"
 
 end
-def display_board2
 
-  puts  "   " + "|" +"   "  +"|"
-  puts  "-----------"
-
-end
-def display_board3
-
-  puts  "   " + "|" +"   "  +"|"
-
-
-end
 display_board
- display_board2
-   display_board3
+
