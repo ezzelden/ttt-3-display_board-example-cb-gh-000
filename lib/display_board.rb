@@ -2,7 +2,7 @@
 def display_board
   puts "Tic Tac Toe board"
   3.times{puts  "   " + "|" +"   "  +"|"}
-  puts "-----------" 
+
 end
 
 display_board
