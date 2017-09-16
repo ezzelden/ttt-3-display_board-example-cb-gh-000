@@ -15,9 +15,10 @@ end
 def display_board3
 
   puts  "   " + "|" +"   "  +"|"
-  
+
 
 end
 display_board
-def display_board2
+ display_board2
+   display_board3
   
