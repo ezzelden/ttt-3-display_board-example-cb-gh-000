@@ -6,5 +6,4 @@ def display_board
 end
 
 display_board
-display_board
-display_board
+
