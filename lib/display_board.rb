@@ -9,3 +9,4 @@ puts "Tic Tac Toe board"
 end
 
 display_board
+display_board
