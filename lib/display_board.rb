@@ -2,14 +2,14 @@
 puts "Tic Tac Toe board"
 def display_board
 
-prints  {
+prints  
    "   " + "|" +"   "  +"|"
     "-----------"
    "   " + "|" +"   "  +"|"
     "-----------"
    "   " + "|" +"   "  +"|"
 
-}
+
 
 
 
