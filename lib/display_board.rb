@@ -3,7 +3,8 @@
 def display_board
 puts "Tic Tac Toe board"
   puts  "   " + "|" +"   "  +"|"
-  
+  puts  "-----------"
+
 
 end
 
