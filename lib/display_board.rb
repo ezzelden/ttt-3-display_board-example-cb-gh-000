@@ -6,5 +6,13 @@ puts "Tic Tac Toe board"
   puts  "-----------"
 
 end
+def display_board2
+
+  puts  "   " + "|" +"   "  +"|"
+  puts  "-----------"
+
+end
 
 display_board
+def display_board2
+
