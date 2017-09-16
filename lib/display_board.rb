@@ -12,7 +12,12 @@ def display_board2
   puts  "-----------"
 
 end
+def display_board3
 
+  puts  "   " + "|" +"   "  +"|"
+  
+
+end
 display_board
 def display_board2
-
+  
