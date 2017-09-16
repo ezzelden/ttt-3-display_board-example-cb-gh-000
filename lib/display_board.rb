@@ -8,4 +8,3 @@ puts "Tic Tac Toe board"
 end
 
 display_board
-
